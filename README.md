@@ -159,4 +159,4 @@ The ellipse-fit output file contains 6 values per frame. The values are in the f
 5. sine of predicted angle (zero pointing down with positive angles going counter-clockwise)  
 6. cosine of predicted angle (zero pointing down with positive angles going counter-clockwise)
 
-For reading the binary numpy (npy) file, refer to the [supporting code](https://github.com/KumarLabJax/MouseTrackingExtras/NPYReader).
+For reading the binary numpy (npy) file, refer to the [supporting code](https://github.com/KumarLabJax/MouseTrackingExtras/tree/master/NPYReader).
